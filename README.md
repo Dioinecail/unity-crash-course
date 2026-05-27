@@ -25,15 +25,25 @@
 
 ### 1. Project Setup  
 
-URP Render Pipeline  
+What is URP Render Pipeline  
+What are Packages  
+How to add a package from Unity Registy  
+How to add a package from github  
 2D Sprite packages  
-Download gitignore file  
+What is a gitignore file  
+Where to get one  
 
 ### 2. Basic Editor Controls  
 
 Changing Window layout, Navigating window layout, saving the layout, streaming over discord limiations  
 Hiding/Unhiding useless menus  
 Search Bar, searching for types  
+What is Scene View  
+What is Game View  
+What is Hierarchy  
+What is Project Window  
+Navigating the Scene View  
+Navigating Hierarchy (Eye, Pointer icons)  
 
 ### 3. Object Component Model  
 
@@ -43,19 +53,28 @@ What is a GameObject
 What is a transform  
 What is a component  
 What is a ScriptableObject  
+What is a Prefab  
 
 ### 4.1 Sprites Import  
 
 Single vs Multiple sprites  
+Full Rect vs Tight
 
 ### 4.2 Sheet Auto Slicing  
 
+What is a Sprite Sheet  
+How to Slice Sprite Sheets automatically  
+
 ### 4.3 Aseprite / Libresprite  workflow
+
+How to add Aseprite Importer Package  
 
 ### 5. PSD to Sprite Mesh workflow
 
-Importing PSDs  
-Adding bones / rigging sprites
+How to add PSD Importer Package  
+How to add 2D Animation Package  
+How to import PSDs  
+Adding bones / rigging sprites  
 Creating simple bone animations  
 
 ### 6. Animators, Animation Files  
@@ -69,6 +88,9 @@ What is a TimelineAsset
 ### 7. Visual Scripting  
 
 Visual Scripting Package installation  
+What is a Visual Script  
+What is Start();  
+What is Update();  
 Creating a Visual Script File  
 Creating a Visual Script inside a Scene  
 
