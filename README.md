@@ -59,6 +59,7 @@ What is a Prefab
 
 Single vs Multiple sprites  
 Full Rect vs Tight
+Why Power of 2 is important (128, 256, 512px etc.)
 
 ### 4.2 Sheet Auto Slicing  
 
